@@ -1,14 +1,16 @@
 ## What it does
 
-This editor script might help you if you have a situation when you need to select many (10+) sub-gameobjects, and you do not want to manually:
-expand parent, select object, collapse parent, rinse and repeat for every sub-gameobject.
+This Editor script might help you if you have a situation when you need to select many (10+) sub-gameobjects
 
-1. Expand parent
-1. Select gameobject
-1. Collapse parent
-1. Repeat 1-3 for every sub-gameobject you need.
+**If in such cases you don't want to do this:**
+1. Expand parent.
+1. Select sub-gameobject you need.
+1. Collapse parent.
+1. Repeat steps 1-3 for every sub-gameobject you need.
 
-Works on sub-sub-sub-etc. gameobjects
+**Then you might want to use this Editor script.**
+
+Works on sub-sub-gameobjects.
 
 Obviously, script expects all "root gameobjects" have same structure.
 
